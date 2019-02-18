@@ -1,0 +1,7 @@
+1) LIMIT command:
+Select * from <table_name>
+limit 1
+
+2) 'Join' in SQL
+https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/
+
